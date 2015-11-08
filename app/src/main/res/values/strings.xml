@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="rdAdd">Cộng</string>
+    <string name="rdSub">Trừ</string>
+    <string name="rdPro">Nhân</string>
+    <string name="rdDiv">Chia</string>
+    <string name="btnCal">Tính</string>
+    <string name="hint_edtNum1">Số thứ nhất</string>
+    <string name="hint_edtnum2">Số thứ hai</string>
+    <string name="title">Tính hai số</string>
+</resources>
